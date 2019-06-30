@@ -1,0 +1,15 @@
+{
+  "name": "auto-confirm-cognito-user",
+  "version": "1.0.0",
+  "description": "Lambda function to automatically confirm newly created AWS Cognito users",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/rocket-power/auto-confirm-cognito-users-lambda.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathew Taylor",
+  "license": "ISC"
+}
